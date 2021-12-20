@@ -1,0 +1,17 @@
+body {
+  max-width: 500px;
+  margin-left: 80px;
+}
+h1 {
+  font-weight: 900;
+  font-size: 200%;
+  text-align: center;
+  margin-top: 2rem;
+  color: #2ec2b0;
+  line-height: 1.2;
+}
+.emoji {
+  margin: 0 auto 20px;
+  display: block;
+  font-size: 400%;
+}

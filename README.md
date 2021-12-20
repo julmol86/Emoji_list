@@ -1,2 +1,1 @@
-# Emoji_list
-Created with CodeSandbox
+Getting more familiar with props and mapping components in React
